@@ -1,0 +1,2 @@
+### Demo metasploit log (заглушка)
+[+] Found valid credentials: hackme:Password123

